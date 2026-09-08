@@ -37,7 +37,7 @@ two options:
 
 ### Option A: Standalone .exe (easiest, no setup)
 
-If you have a `MogWatch.exe` file, just double-click it. Nothing else to
+If you have a `build_exe.bat` file, just double-click it. Nothing else to
 install. Drag the window to your second monitor and leave it open while
 you play.
 
